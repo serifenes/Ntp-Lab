@@ -1,0 +1,11 @@
+C:\Users\serif\Desktop\NTPOdev\SifremiUnuttumProjesi\SifremiUnuttumProjesi\bin\Debug\SifremiUnuttumProjesi.exe.config
+C:\Users\serif\Desktop\NTPOdev\SifremiUnuttumProjesi\SifremiUnuttumProjesi\bin\Debug\SifremiUnuttumProjesi.exe
+C:\Users\serif\Desktop\NTPOdev\SifremiUnuttumProjesi\SifremiUnuttumProjesi\bin\Debug\SifremiUnuttumProjesi.pdb
+C:\Users\serif\Desktop\NTPOdev\SifremiUnuttumProjesi\SifremiUnuttumProjesi\obj\Debug\SifremiUnuttumProjesi.csprojAssemblyReference.cache
+C:\Users\serif\Desktop\NTPOdev\SifremiUnuttumProjesi\SifremiUnuttumProjesi\obj\Debug\SifremiUnuttumProjesi.Properties.Resources.resources
+C:\Users\serif\Desktop\NTPOdev\SifremiUnuttumProjesi\SifremiUnuttumProjesi\obj\Debug\SifremiUnuttumProjesi.csproj.GenerateResource.cache
+C:\Users\serif\Desktop\NTPOdev\SifremiUnuttumProjesi\SifremiUnuttumProjesi\obj\Debug\SifremiUnuttumProjesi.csproj.CoreCompileInputs.cache
+C:\Users\serif\Desktop\NTPOdev\SifremiUnuttumProjesi\SifremiUnuttumProjesi\obj\Debug\SifremiUnuttumProjesi.exe
+C:\Users\serif\Desktop\NTPOdev\SifremiUnuttumProjesi\SifremiUnuttumProjesi\obj\Debug\SifremiUnuttumProjesi.pdb
+C:\Users\serif\Desktop\NTPOdev\SifremiUnuttumProjesi\SifremiUnuttumProjesi\obj\Debug\SifremiUnuttumProjesi.Form1.resources
+C:\Users\serif\Desktop\NTPOdev\SifremiUnuttumProjesi\SifremiUnuttumProjesi\obj\Debug\SifremiUnuttumProjesi.SifreHatirlat.resources
