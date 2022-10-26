@@ -1,0 +1,7 @@
+C:\Users\serif\source\repos\3. Hafta Odev\3. Hafta Odev\bin\Debug\_3.Hafta_Odev.exe.config
+C:\Users\serif\source\repos\3. Hafta Odev\3. Hafta Odev\bin\Debug\_3.Hafta_Odev.exe
+C:\Users\serif\source\repos\3. Hafta Odev\3. Hafta Odev\bin\Debug\_3.Hafta_Odev.pdb
+C:\Users\serif\source\repos\3. Hafta Odev\3. Hafta Odev\obj\Debug\3. Hafta Odev.csprojAssemblyReference.cache
+C:\Users\serif\source\repos\3. Hafta Odev\3. Hafta Odev\obj\Debug\3. Hafta Odev.csproj.CoreCompileInputs.cache
+C:\Users\serif\source\repos\3. Hafta Odev\3. Hafta Odev\obj\Debug\_3.Hafta_Odev.exe
+C:\Users\serif\source\repos\3. Hafta Odev\3. Hafta Odev\obj\Debug\_3.Hafta_Odev.pdb
